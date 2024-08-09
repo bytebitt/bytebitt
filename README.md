@@ -9,6 +9,7 @@
             background-size: cover;
             cursor: pointer;
         }
+ </style>       
 <div class="TGicon"';">https://t.me/zkittxc</div>
 <!--<a href="https://discord.gg/7GSb5W6H">Discord</a> 
 <br><a href="https://t.me/zkittxc">Telegram</a> -->
