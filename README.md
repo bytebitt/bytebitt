@@ -1,16 +1,7 @@
 <h3 align="center">DomeStos, Unity Game Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-     
-<div class="TGicon"';">https://t.me/zkittxc</div>
-<style>
-        .TGicon {
-            width: 50px;
-            height: 50px;
-            background-image: url('https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png'); 
-            background-size: cover;
-        }
-</style>  
+      
 <!--<a href="https://discord.gg/7GSb5W6H">Discord</a> 
 <br><a href="https://t.me/zkittxc">Telegram</a> -->
 <p align="left">
