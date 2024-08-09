@@ -1,6 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">DomeStos, Unity Game Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://discord.gg/7GSb5W6H">Discord</a>
 <p align="left">
 </p>
 
