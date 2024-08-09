@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <style>
-        .icon {
+        .TGicon {
             width: 50px;
             height: 50px;
             background-image: url('https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png'); 
