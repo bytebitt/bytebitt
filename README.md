@@ -14,9 +14,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
+<h2>My github stats:</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Domestor&show_icons=true&locale=en" alt="Domestor" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Domestor&show_icons=true&locale=en&layout=compact" alt="Domestor" /></p>
+
 <h2>❤️ You Can Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/bytebit">
