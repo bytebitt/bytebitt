@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm ByteBit</h1>
-<p>Frontend Developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Frontend Developer</h2>
+<p>Ukraine</p>
+<p>👨‍🎓Student</p>
+<p>💻Full Stack + Mobile Dev in the Future</p>
+<h2>🚀 Languages and Tools I Use:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
@@ -14,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Domestor&show_icons=true&locale=en" alt="Domestor" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Domestor&show_icons=true&locale=en&layout=compact" alt="Domestor" /></p>
-<h2>❤️ Support Me</h2>
+<h2>❤️ You Can Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/bytebit">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
