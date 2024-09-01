@@ -3,7 +3,8 @@
 <p>Ukraine</p>
 <p>👨‍🎓Student</p>
 <p>💻Full Stack + Mobile Dev in the Future</p>
-<p>I use it for coding:</p>
+
+<h2>I use it for coding:</h2>
 <h2>Languages</h2>
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
