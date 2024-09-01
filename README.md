@@ -3,21 +3,34 @@
 <p>Ukraine</p>
 <p>👨‍🎓Student</p>
 <p>💻Full Stack + Mobile Dev in the Future</p>
-<h2>🚀 Languages and Tools I Use:</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+<p>I use it for coding:</p>
+<h2>Languages</h2>
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/c-sharp-logo.png" alt="c-sharp-logo"/>
+</p>
+
+<h2>Tools</h2>
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/unity.png" alt="unity"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
+</p>
+<h2>Platforms</h2>
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>
+  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
+</p>
 
 <h2>My github stats:</h2>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Domestor&show_icons=true&locale=en" alt="Domestor" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Domestor&show_icons=true&locale=en&layout=compact" alt="Domestor" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <h2>❤️ You Can Support Me</h2>
 <p><p>
