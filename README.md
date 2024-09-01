@@ -29,7 +29,7 @@
 
 <h2>My github stats:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domestor&layout=compact&bg_color=000000&text_color=ffffff" alt="Top Languages" width="45%" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domestor&layout=compact&langs_count=10&bg_color=000000&text_color=ffffff" alt="Top Languages" width="45%" style="display:inline-block;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Domestor&show_icons=true&bg_color=000000&text_color=ffffff" alt="GitHub Stats" width="45%" style="display:inline-block;"/>
 </p>
 
