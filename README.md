@@ -24,7 +24,7 @@
 <h2>Platforms</h2>
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>
-  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 </p>
 
 <h2>My github stats:</h2>
