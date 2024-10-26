@@ -1,42 +1,22 @@
-<h1>Hi 👋, I'm ByteBit</h1>
-<h2>Frontend Developer</h2>
-<p>Ukraine</p>
-<p>👨‍🎓Student</p>
-<p>💻Full Stack + Mobile Dev in the Future</p>
+# 💫 About Me:
+about me here
 
-<h2>I use it for coding:</h2>
-<h2>Languages</h2>
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/c-sharp-logo.png" alt="c-sharp-logo"/>
-</p>
 
-<h2>Tools</h2>
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="arduino"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/unity.png" alt="unity"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
-</p>
-<h2>Platforms</h2>
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yyAx4U8T) 
 
-<h2>My github stats:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domestor&layout=compact&langs_count=10&bg_color=000000&text_color=ffffff" alt="Top Languages" width="45%" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Domestor&show_icons=true&bg_color=000000&text_color=ffffff" alt="GitHub Stats" width="45%" style="display:inline-block;"/>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Domestor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domestor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>❤️ You Can Support Me</h2>
-<p><p>
-<a href="https://www.ko-fi.com/bytebit">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
-</a>
-</p>
-</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Domestor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/byteb1t) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
