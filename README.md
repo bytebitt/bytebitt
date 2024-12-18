@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍🎓student<br><br>
 
-*🕰️description will be added later🕰️*
+🕰️*description will be added later*🕰️
 
 # 💻 I have knowledge in:
 Languages:
