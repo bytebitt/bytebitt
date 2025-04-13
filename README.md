@@ -1,3 +1,7 @@
+
+
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ0MG1qczFsbnY1anZpMXptNnlxMThwMHV4NzJ2ZGh5eWx5N243dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+
 # 💫 About Me:
 👨‍🎓student<br><br>
 🇺🇦ukraine<br><br>
