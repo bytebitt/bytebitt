@@ -1,20 +1,13 @@
 
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ0MG1qczFsbnY1anZpMXptNnlxMThwMHV4NzJ2ZGh5eWx5N243dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+<!--![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ0MG1qczFsbnY1anZpMXptNnlxMThwMHV4NzJ2ZGh5eWx5N243dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif) -->
 
-# 💫 About Me:
-👨‍🎓student<br><br>
-🇺🇦ukraine<br><br>
-💻studying web development<br><br>
+# Hi!👋 I am Bytebit and I'm Student/Developer from Ukraine:
 
-# 💻 I have knowledge in:
+# 💻 Tech Stack:
 Languages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-Databases:
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Operating Systems:
 
@@ -31,6 +24,8 @@ Other:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Domestor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+tg: @bytebit1
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/byteb1t) 
