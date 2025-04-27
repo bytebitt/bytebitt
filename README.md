@@ -1,8 +1,7 @@
 
+<h1 >Hi there, I'm <em>Bytebit</em>
 
-<!--![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ0MG1qczFsbnY1anZpMXptNnlxMThwMHV4NzJ2ZGh5eWx5N243dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif) -->
-
-# Hi!👋 I am Bytebit and I'm Student/Developer from Ukraine:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Future+Web+Development+student." alt="Typing SVG" /></a>
 
 # 💻 Tech Stack:
 Languages:
