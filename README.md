@@ -1,5 +1,8 @@
 # 👋 Hi There! I'm bytebit
 <a href="https://byte.3xcl.dev">My Portfolio Web-Site</a>
+## Certs:
+<img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="96" alt="PCAP 31-03">
+
 ## 💻 Tech Stack:
 Languages:
 
