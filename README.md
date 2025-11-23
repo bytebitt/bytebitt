@@ -25,7 +25,7 @@ Other:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&theme=dark&hide_border=false&layout=compact&langs_count=4&include_all_commits=true&count_private=true&cache_seconds=60)
+[![Bytebitt’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&layout=compact&theme=radical)](https://github.com/bytebitt)
 
 
 
