@@ -10,9 +10,12 @@ Languages:
 
 Operating Systems:
 
-![Linux](https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b) ![Kali](https://camo.githubusercontent.com/baef6b3f5a6ca926f918b4fe0f7f02b6790c1cd65435a7172199ac07668c487c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c692d3236384245453f7374796c653d666f722d7468652d6261646765266c6f676f3d6b616c696c696e7578266c6f676f436f6c6f723d7768697465) 
-![Windows](https://camo.githubusercontent.com/1cc3ed014dbb3cc907789013096c44d0bc78875ee219d9455f619ff18059ac4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
-![IOS](https://camo.githubusercontent.com/700d3c1e3e01b5c1a66eb279c0830b0ab335b1a73e5de2e464e553ed7253e19b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696f73266c6f676f436f6c6f723d7768697465)
+## Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 
 Frameworks & Preprocessors:
 
@@ -25,9 +28,7 @@ Other:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-[![Bytebitt’s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&layout=compact&theme=radical)](https://github.com/bytebitt)
-
-
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bytebitt&layout=compact&theme=radical) -->
 
 
   ## 💰 You can help me by Donating
