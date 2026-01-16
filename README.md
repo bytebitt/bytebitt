@@ -1,4 +1,4 @@
-# 👋 Hi There! I'm bytebit
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there!+I'm+bytebitt)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack:
 #### Languages:
@@ -30,7 +30,7 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/byteb1t) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
