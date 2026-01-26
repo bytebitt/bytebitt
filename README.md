@@ -24,7 +24,10 @@
 ### Certs:
 <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="96" alt="PCAP 31-03">
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Stats: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&layout=compact&theme=dark)
+
+![ByteBitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytebitt&show_icons=true&theme=dark)
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/byteb1t) 
