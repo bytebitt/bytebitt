@@ -13,9 +13,9 @@
 
 <!-- ### Certs:
 <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="96" alt="PCAP 31-03"> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&layout=compact&theme=dark" />
-</p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebitt&layout=compact&theme=dark" width="350"/>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=120&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
